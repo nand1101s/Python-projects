@@ -1,0 +1,7 @@
+import random
+
+x = (int)(input("Enter a positive integer: "))
+
+x_array = np.random.randint(0, x, 10)
+
+#Write a code that takes in a positive integer "x" from the user and creates a 1x10 array with random numbers ranging from 0 to "x"
